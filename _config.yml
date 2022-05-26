@@ -30,7 +30,7 @@ url: "https://TatsunoriOiwa.github.io" # the base hostname & protocol for your s
 github_username:  TatsunoriOiwa
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
