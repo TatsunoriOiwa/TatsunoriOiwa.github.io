@@ -7,10 +7,12 @@ title: Tatsunori Oiwa Home Page
 ---
 
 <h1 align="center">大岩 達典 (おおいわ たつのり) ホームページ</h1>
-<!-- # 大岩 達典 (おおいわ たつのり) ホームページ -->
+<!-- 中央揃えのため # ではNG -->
 
 <!-- ## NEW -->
+<!-- - 2022.05.26 開設 -->
 
+<hr>
 
 ## PROFILE
 <img border="0" src="assets/oiwa.png" width="160">
@@ -33,53 +35,63 @@ title: Tatsunori Oiwa Home Page
 - 04-7136-4632 (居室)，04-7136-4579 (実験室)
 - taoiwa [at] s.h.k.u-tokyo.ac.jp
 - 〒277-8563 千葉県柏市柏の葉5-1-5 東京大学柏キャンパス　環境棟3階301号室 (<a href="https://www.u-tokyo.ac.jp/campusmap/cam03_01_06_j.html">場所</a>)
-- 専門：
+
+<hr>
 
 ## RESEARCH
 キーワード：NEMS，微小振動子，プラズモニックデバイス，表面プラズモンポラリトン，近接場光
 
 微小な構造と光の相互作用を利用して，微小な分光デバイスの創出を目指しています．
 
+<hr>
 
 ## PUBLICATION
 ### 国内学会
-(口頭・査読有) 大岩 達典, 割澤 伸一, 米谷 玲皇: "狭細な透過光スペクトルを有するブルズアイ構造実現のためのスパイラルブラッグリフレクタ", 応用物理学会集積化MEMS技術研究会, 第13回「集積化 MEMS シンポジウム」 , 9A3-AP-2, オンライン, 2021年11月  
+(口頭・査読有) **大岩 達典**, 割澤 伸一, 米谷 玲皇: "狭細な透過光スペクトルを有するブルズアイ構造実現のためのスパイラルブラッグリフレクタ", 応用物理学会集積化MEMS技術研究会, 第13回「集積化 MEMS シンポジウム」 , 9A3-AP-2, オンライン, 2021年11月  
+
+<hr>
 
 ## CURRICULUM VITAE
 ### WORKING EXPERIENCE
-2021/09-2021/12: Teaching Assistant 東京大学工学部機械工学科 創造設計演習  
-2021/08: LINE株式会社 インターンシップ  
+2021/09-2021/12: Teaching Assistant 東京大学工学部機械工学科 創造設計演習<br>
+2021/08: LINE株式会社 インターンシップ<br>
 
 ### EDUCATION
-2021/04 新領域創成科学研究科人間環境学専攻 修士課程進学  
-2021/03 東京大学工学部機械工学科 卒  
+2021/04 新領域創成科学研究科人間環境学専攻 修士課程進学<br>
+2021/03 東京大学工学部機械工学科 卒<br>
 <!-- ### AWARDS -->
 <!-- ### ACADEMIC SERIVES -->
 
+<hr>
+
 ## SKILLS
 ### CERTIFICATION
-2021/12 応用情報技術者試験  
-~~2020/05 TOEFL iBT 98点~~ (expired)
+2021/12 応用情報技術者試験<br>
+~~2020/05 TOEFL iBT 98点~~ (expired)<br>
 
 ### OTHERS
 #### 半導体加工装置 使用/不具合対応
-電子線描画装置 ELS-7500SI (Elionix)  
-集束イオンビーム加工装置 SMI-2050/SMI-3050 (SII)  
-走査電子顕微鏡 JSM07600FA (JEOL)  
-原子間力顕微鏡 SPA-400 (SII)  
-スパッタ製膜装置 SC-701HMC2 (サンユー電子)  
-真空蒸着装置 SCV-700TM (サンユー電子)  
+電子線描画装置 ELS-7500SI (Elionix)<br>
+集束イオンビーム加工装置 SMI-2050/SMI-3050 (SII)<br>
+走査電子顕微鏡 JSM07600FA (JEOL)<br>
+原子間力顕微鏡 SPA-400 (SII)<br>
+スパッタ製膜装置 SC-701HMC2 (サンユー電子)<br>
+真空蒸着装置 SCV-700TM (サンユー電子)<br>
 
 #### PROGRAMMING
-Language: Java, Python (, C, Lua, Assembly (PIC), Java bytecode)  
-Frameworks: Standard Widget Toolkit (GUI系), Spring Framework (Web系)  
+Language: Java, Python (, C, Lua, Assembly (PIC), Java bytecode)<br>
+Frameworks: Standard Widget Toolkit (GUI系), Spring Framework (Web系)<br>
+
+<hr>
 
 ## LINKS
-研究室　<a>http://www.lhei.k.u-tokyo.ac.jp/</a>  
-github <a>https://github.com/TatsunoriOiwa</a>  
+研究室　<a>http://www.lhei.k.u-tokyo.ac.jp/</a><br>
+github <a>https://github.com/TatsunoriOiwa</a><br>
+
+<hr>
 
 ## MISC
-TODO
+TODO<br>
 
 
 
