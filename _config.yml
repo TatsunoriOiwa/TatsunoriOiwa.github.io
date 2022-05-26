@@ -31,7 +31,7 @@ github_username:  TatsunoriOiwa
 
 # Build settings
 # theme: jekyll-theme-cayman
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: TatsunoriOiwa/jekyll-gitbook
 plugins:
   - jekyll-feed
   - jekyll-sitemap
