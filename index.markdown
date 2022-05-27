@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Tatsunori Oiwa Home Page
+title: Top
 ---
 
 <h1 align="center">大岩 達典 (おおいわ たつのり) ホームページ</h1>
@@ -85,7 +85,7 @@ Frameworks: Standard Widget Toolkit (GUI系), Spring Framework (Web系)<br>
 <hr>
 
 ## LINKS
-研究室　<a>http://www.lhei.k.u-tokyo.ac.jp/</a><br>
+研究室 <a>http://www.lhei.k.u-tokyo.ac.jp/</a><br>
 github <a>https://github.com/TatsunoriOiwa</a><br>
 
 <hr>
