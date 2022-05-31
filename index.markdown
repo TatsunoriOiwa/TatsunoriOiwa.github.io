@@ -85,8 +85,8 @@ Frameworks: Standard Widget Toolkit (GUI系), Spring Framework (Web系)<br>
 <hr>
 
 ## LINKS
-研究室 <a>http://www.lhei.k.u-tokyo.ac.jp/</a><br>
-github <a>https://github.com/TatsunoriOiwa</a><br>
+研究室 <a href=http://www.lhei.k.u-tokyo.ac.jp/>http://www.lhei.k.u-tokyo.ac.jp/</a><br>
+github <a href=https://github.com/TatsunoriOiwa>https://github.com/TatsunoriOiwa</a><br>
 
 <hr>
 
